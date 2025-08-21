@@ -25,6 +25,9 @@ I am an AI engineer.
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/cg98020455/github-profile-summary-cards)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cg98020455&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
+
+https://camo.githubusercontent.com/050eb131f8a8ab6618f89e9e489798a08d66c6223ab7543b35fcce18924908e2/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d53616e746f73685961646176446576267468656d653d6769746875622d636f6d70616374
+
 ---
 
 <br/>
