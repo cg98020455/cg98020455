@@ -1,7 +1,7 @@
 ### Hi there I am [Rishab]()
 <br/>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=rishabkumar7&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]
@@ -26,7 +26,7 @@ I am a AI engineer.
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cg98020455&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 ---
 
