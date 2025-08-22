@@ -19,119 +19,104 @@ I am an AI engineer.
 <img
   src="https://techstack-generator.vercel.app/ts-icon.svg"
   alt="icon"
-  width="65"
-  height="65" />
+  width="50"
+  height="50" />
 <img
   src="https://techstack-generator.vercel.app/react-icon.svg"
   alt="icon"
-  width="65"
-  height="65" />
+  width="50"
+  height="50" />
 <img
   src="https://skillicons.dev/icons?i=nextjs"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="NextJS" />
 <img
   src="https://skillicons.dev/icons?i=nodejs"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="NodeJS" />
 <img
   src="https://skillicons.dev/icons?i=express"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="Express" />
 <img
   src="https://skillicons.dev/icons?i=mongodb"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="MongoDB" />
 <img
   src="https://techstack-generator.vercel.app/mysql-icon.svg"
   alt="icon"
-  width="65"
-  height="65" />
+  width="50"
+  height="50" />
 <img
   src="https://skillicons.dev/icons?i=html"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="HTML5" />
 <img
   src="https://techstack-generator.vercel.app/sass-icon.svg"
   alt="icon"
-  width="65"
-  height="65" />
+  width="50"
+  height="50" />
 <img
   src="https://skillicons.dev/icons?i=tailwind"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="tailwind" />
 <img
   src="https://skillicons.dev/icons?i=bootstrap"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="bootstrap" />
 <img
   src="https://skillicons.dev/icons?i=jquery"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="jQuery" />
 <img
 src="https://skillicons.dev/icons?i=php"
-width="65"
-height="65"
+width="50"
+height="50"
   alt="PHP" />
 <img
   src="https://techstack-generator.vercel.app/webpack-icon.svg"
   alt="icon"
-  width="65"
-  height="65" />
-<img
-  src="https://skillicons.dev/icons?i=vscode"
-  width="65"
-  height="65"
-  alt="VsCode" />
-<img
-  src="https://techstack-generator.vercel.app/aws-icon.svg"
-  alt="icon"
-  width="65"
-  height="65" />
-<img
-  src="https://techstack-generator.vercel.app/github-icon.svg"
-  alt="icon"
-  width="65"
-  height="65" />
+  width="50"
+  height="50" />
 <img
   src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="Git" />
 <img
   src="https://skillicons.dev/icons?i=go"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="MongoDB" />
 <img
   src="https://skillicons.dev/icons?i=ruby"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="Ruby" />
 <img
   src="https://skillicons.dev/icons?i=postgres"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="PostgreSQL" />
 <img
   src="https://skillicons.dev/icons?i=fastapi"
-  width="65"
-  height="65"
+  width="50"
+  height="50"
   alt="FastAPI" />
 
 <img
   src="https://techstack-generator.vercel.app/docker-icon.svg"
   alt="icon"
-  width="65"
-  height="65" />
+  width="50"
+  height="50" />
 
 
 <img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
