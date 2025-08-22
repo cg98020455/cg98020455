@@ -1,7 +1,7 @@
 ### Hi there I am [Charles]()
 <br/>
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=IBQ-SUP&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/IBQ-SUP)
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 
