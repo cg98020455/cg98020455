@@ -7,6 +7,8 @@
 Dear sir!
 Plz give stars to this repository.
 https://github.com/cg98020455/MetaMarketProfile
+
+This repository can be useful for your meta trading.
 ---
 
 I am an AI engineer.
