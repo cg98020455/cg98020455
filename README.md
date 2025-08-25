@@ -11,6 +11,9 @@ I am an AI engineer.
 
 ---
 
+
+<img align="right" alt="Coding" width="400" src="https://github.com/rahilahmed95/rahilahmed95/blob/main/Coding%20GIF.gif?raw=true">
+
 ### Languages and tools ⚙️
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
