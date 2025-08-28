@@ -4,7 +4,7 @@
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
 
-If you find this Market Profile project useful or interesting, I would greatly appreciate it if you could give the repository a ⭐ star on GitHub. Your support helps improve the project and motivates further development. Thank you!
+If this Market Profile project has helped you or sparked your interest, please consider giving it a ⭐ star on GitHub. Your endorsement not only motivates continued innovation but also empowers the growth of helpful trading tools for the entire community. Every star makes a meaningful difference—thank you for supporting open source!
 https://github.com/cg98020455/MetaMarketProfile
 ---
 
