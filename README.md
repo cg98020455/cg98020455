@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
 **💻✨ I am an open‑source contributor 🌍🛠️**  
 
-If this Market Profile project has helped you or sparked your interest, please consider giving it a ⭐ star on GitHub. Your endorsement not only motivates continued innovation but also empowers the growth of helpful trading tools for the entire community. Every star makes a meaningful difference—thank you for supporting open source!
+Dear everyone! This repository can be helpful for your forex trading. Giving star to this repository will make to improve quality of this project.
 https://github.com/cg98020455/MetaMarketProfile
 ---
 
