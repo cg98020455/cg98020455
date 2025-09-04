@@ -133,7 +133,6 @@ height="50"
 
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/cg98020455/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cg98020455&theme=ads-juicy-fresh)](https://git.io/streak-stats)
 
 
 
