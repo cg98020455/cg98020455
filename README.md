@@ -10,6 +10,7 @@
 
 Dear everyone! This repository can be helpful for your forex trading. Giving star to this repository will make to improve quality of this project.
 https://github.com/cg98020455/MetaMarketProfile
+
 ---
 
 **As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.**
@@ -260,8 +261,12 @@ height="50"
 ## 💡 Why Work With Me?
 ---
 ✔️ Proven expertise in real-world GPT, LLM, and automation solutions
+<br/>
 ✔️ Deep understanding of both business processes and AI pipelines
+<br/>
 ✔️ End-to-end support: Idea → Development → Deployment
+<br/>
 ✔️ Fast, clean code with transparent communication
+<br/>
 ✔️ Flexible pricing and team scaling for any size project
 
