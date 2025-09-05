@@ -1,8 +1,11 @@
-### Hi there I am [Charles]()
+# Hi there I am [Charles]()
 <br/>
+
+## I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
 
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
+
 **💻✨ I am an open‑source contributor 🌍🛠️**  
 
 Dear everyone! This repository can be helpful for your forex trading. Giving star to this repository will make to improve quality of this project.
