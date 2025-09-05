@@ -1,11 +1,8 @@
 # Hi there I am [Charles]()
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 <br/>
 
 ## I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
-
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
-
 **💻✨ I am an open‑source contributor 🌍🛠️**  
 
 Dear everyone! This repository can be helpful for your forex trading. Giving star to this repository will make to improve quality of this project.
@@ -254,12 +251,12 @@ height="50"
 
 
 
----
+
 
 <br/>
 
 ## 💡 Why Work With Me?
----
+
 ✔️ Proven expertise in real-world GPT, LLM, and automation solutions
 <br/>
 ✔️ Deep understanding of both business processes and AI pipelines
@@ -270,3 +267,6 @@ height="50"
 <br/>
 ✔️ Flexible pricing and team scaling for any size project
 
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
