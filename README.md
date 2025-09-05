@@ -256,3 +256,12 @@ height="50"
 ---
 
 <br/>
+
+## 💡 Why Work With Me?
+---
+✔️ Proven expertise in real-world GPT, LLM, and automation solutions
+✔️ Deep understanding of both business processes and AI pipelines
+✔️ End-to-end support: Idea → Development → Deployment
+✔️ Fast, clean code with transparent communication
+✔️ Flexible pricing and team scaling for any size project
+
