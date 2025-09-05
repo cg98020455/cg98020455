@@ -1,25 +1,27 @@
 # Hi there I am [Charles]()
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 <br/>
-
-## I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
+## What I major in
+### I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
 **💻✨ I am an open‑source contributor 🌍🛠️**  
+**As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.**
+
+
+
+---
 
 Dear everyone! This repository can be helpful for your forex trading. Giving star to this repository will make to improve quality of this project.
 https://github.com/cg98020455/MetaMarketProfile
 
 ---
-
-**As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.**
-
----
+## From the experience stage to the business, AI is spreading.
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oUAAR9fnsmpstFhqmZZ55g.gif" />
 
 
 
-### Languages and tools ⚙️
+## ⚙️ Languages and tools 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
@@ -244,7 +246,7 @@ height="50"
 
 
 
-### My Github Stats 📊
+## 📊 My Github Stats 
 
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/cg98020455/github-profile-summary-cards)
