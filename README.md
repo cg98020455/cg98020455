@@ -123,11 +123,6 @@ height="50"
   height="50"
   alt="FastAPI" />
 
-<img
-  src="https://skillicons.dev/icons?i=fastapi"
-  width="50"
-  height="50"
-  alt="FastAPI" />
 
 <img
   src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/aionlabs.svg"
