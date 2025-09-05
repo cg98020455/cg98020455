@@ -229,12 +229,11 @@ height="50"
   width="50"
   height="50"
   alt="snorflake" />
-
 <img
   src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/openai.svg"
   width="50"
   height="50"
-  alt="snorflake" />
+  alt="openai" />
   
 
   
