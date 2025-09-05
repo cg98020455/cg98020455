@@ -124,6 +124,120 @@ height="50"
   alt="FastAPI" />
 
 <img
+  src="https://skillicons.dev/icons?i=fastapi"
+  width="50"
+  height="50"
+  alt="FastAPI" />
+
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/aionlabs.svg"
+  width="50"
+  height="50"
+  alt="aionlabs" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/ai302.svg"
+  width="50"
+  height="50"
+  alt="AI302" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/assemblyai.svg"
+  width="50"
+  height="50"
+  alt="AssemblyAI" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/aya.svg"
+  width="50"
+  height="50"
+  alt="Aya" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/alephalpha.svg"
+  width="50"
+  height="50"
+  alt="Alephalpha" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/claude.svg"
+  width="50"
+  height="50"
+  alt="Claude" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/crewai.svg"
+  width="50"
+  height="50"
+  alt="CrewAI" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/deepai.svg"
+  width="50"
+  height="50"
+  alt="DeepAI" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/azureai.svg"
+  width="50"
+  height="50"
+  alt="AzureAI" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/deepseek.svg"
+  width="50"
+  height="50"
+  alt="DeepSeek" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/dolphin.svg"
+  width="50"
+  height="50"
+  alt="Dolphin" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/elevenlabs.svg"
+  width="50"
+  height="50"
+  alt="ElevenLabs" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/gemini.svg"
+  width="50"
+  height="50"
+  alt="Gemini" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/bedrock.svg"
+  width="50"
+  height="50"
+  alt="BedRock" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/langgraph.svg"
+  width="50"
+  height="50"
+  alt="LangGraph" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/langsmith.svg"
+  width="50"
+  height="50"
+  alt="LangSmith" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/huggingface.svg"
+  width="50"
+  height="50"
+  alt="HuggingFace" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/metagpt.svg"
+  width="50"
+  height="50"
+  alt="MetaGPT" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/perplexity.svg"
+  width="50"
+  height="50"
+  alt="Perplexity" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/searchapi.svg"
+  width="50"
+  height="50"
+  alt="SearchAPI" />
+<img
+  src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/snowflake.svg"
+  width="50"
+  height="50"
+  alt="snorflake" />
+
+  
+
+<img
   src="https://techstack-generator.vercel.app/docker-icon.svg"
   alt="icon"
   width="50"
