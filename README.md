@@ -2,6 +2,16 @@
 # Hello there I am [Charles]()
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 <br/>
+
+<details close>
+<summary><h2>🌟 About Me</h2></summary>
+ 
+  - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.
+  - 🚀 I'm always eager to learn new things and take on new challenges.
+  - 🎓 I believe in the power of knowledge-sharing and open source.
+</details>
+
+<details close>
 ## What I major in
 ### I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
 **💻✨ I am an open‑source contributor 🌍🛠️**  
@@ -15,13 +25,16 @@ Dear everyone! This repository can be helpful for your forex trading. Giving sta
 https://github.com/cg98020455/MetaMarketProfile
 
 ---
+</details>
+
+<details close>
 ## From the experience stage to the business, AI is spreading.
 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oUAAR9fnsmpstFhqmZZ55g.gif" />
+</details>
 
-
-
+<details close>
 ## ⚙️ Languages and tools 
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
@@ -244,9 +257,9 @@ height="50"
   width="50"
   height="50" /><img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 </p>
+</details>
 
-
-
+<details close>
 ## 📊 My Github Stats 
 
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
@@ -257,7 +270,8 @@ height="50"
 
 
 <br/>
-
+</details>
+<details close>
 ## 💡 Why Work With Me?
 
 ✔️ Proven expertise in real-world GPT, LLM, and automation solutions
@@ -269,7 +283,11 @@ height="50"
 ✔️ Fast, clean code with transparent communication
 <br/>
 ✔️ Flexible pricing and team scaling for any size project
+</details>
 
+<details close>
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
+
+</details>
