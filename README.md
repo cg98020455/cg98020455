@@ -13,9 +13,9 @@
 
 <details close>
 <summary><h2> ❓ What I major in </h2></summary>
-### I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
-**💻✨ I am an open‑source contributor 🌍🛠️**  
-**As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.**
+I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
+💻✨ I am an open‑source contributor 🌍🛠️
+As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.**
 
 
 
