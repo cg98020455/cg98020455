@@ -4,7 +4,7 @@
 <br/>
 
 <details close>
-<summary><h2>🌟 About Me</h2></summary>
+<summary><h2>🌟 About me</h2></summary>
  
   - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.
   - 🚀 I'm always eager to learn new things and take on new challenges.
@@ -262,7 +262,7 @@ height="50"
 </details>
 
 <details close>
- <summary><h2> 🏢 Portfolio- Real Estate Agent </h2></summary>
+ <summary><h2> 🏢 Portfolio - real estate agent </h2></summary>
  
  [Advanced RAG Engineering for real estate due diligence AI Agent](https://github.com/cg98020455/Advanced-RAG-Engineering-for-real-estate-due-diligence-AI-Agent)
  <br/>
@@ -292,7 +292,7 @@ height="50"
 </details>
 
 <details close>
- <summary><h2>📊 My Github Stats  </h2></summary>
+ <summary><h2>🔭 My github stats  </h2></summary>
 
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/cg98020455/github-profile-summary-cards)
@@ -304,7 +304,7 @@ height="50"
 <br/>
 </details>
 <details close>
- <summary><h2>💡 Why Work With Me? </h2></summary>
+ <summary><h2>💡 Why work with me? </h2></summary>
 
 ✔️ Proven expertise in real-world GPT, LLM, and automation solutions
 <br/>
@@ -318,7 +318,7 @@ height="50"
 </details>
 
 <details close>
- <summary><h2>🤝 Connect With Me </h2></summary>
+ <summary><h2>🤝 Connect with me </h2></summary>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
 
