@@ -262,7 +262,8 @@ height="50"
 </details>
 
 <details close>
- <summary><h2> 🏢Portfolio- Real Estate Agent </h2></summary>
+ <summary><h2> 🏢 Portfolio- Real Estate Agent </h2></summary>
+ 
  [Advanced RAG Engineering for real estate due diligence AI Agent](https://github.com/cg98020455/Advanced-RAG-Engineering-for-real-estate-due-diligence-AI-Agent)
  <br/>
  [AI agent development for an real estate agency for appointment setting](https://github.com/cg98020455/AI-agent-development-for-an-real-estate-agency-for-appointment-setting)
