@@ -262,6 +262,23 @@ height="50"
 </details>
 
 <details close>
+ <summary><h2> 🏢Portfolio- Real Estate Agent </h2></summary>
+ [Advanced RAG Engineering for real estate due diligence AI Agent](https://github.com/cg98020455/Advanced-RAG-Engineering-for-real-estate-due-diligence-AI-Agent)
+ [AI agent development for an real estate agency for appointment setting](https://github.com/cg98020455/AI-agent-development-for-an-real-estate-agency-for-appointment-setting)
+ [AI Agent SaaS for Real Estate Valuation & Property Intelligence](https://github.com/cg98020455/AI-Agent-SaaS-for-Real-Estate-Valuation-Property-Intelligence)
+ [AI-Powered SMS Real Estate Agent using VoiceFlow](https://github.com/cg98020455/AI-Powered-SMS-Real-Estate-Agent-using-VoiceFlow)
+ [NLP Chatbot for Real Estate](https://github.com/cg98020455/NLP-Chatbot-for-Real-Estate)
+ [Real Estate Agency Chatbot](https://github.com/cg98020455/Real-Estate-Agency-Chatbot)
+ [Real estate chatbot integrated with Whatsapp business API](https://github.com/cg98020455/Real-estate-chatbot-integrated-with-Whatsapp-business-API)
+ [Real estate county website](https://github.com/cg98020455/Real-estate-county-website)
+ [Real Estate Data Mining](https://github.com/cg98020455/Real-Estate-Data-Mining)
+ [Real estate data research](https://github.com/cg98020455/Real-estate-data-research)
+ [Real estate due diligence](https://github.com/cg98020455/Real-estate-due-diligence)
+ [Real Estate Financial Model - Construction, Rental, Refinance, & Sales](https://github.com/cg98020455/Real-Estate-Financial-Model---Construction-Rental-Refinance-Sales)
+ 
+</details>
+
+<details close>
  <summary><h2>📊 My Github Stats  </h2></summary>
 
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
