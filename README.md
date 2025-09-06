@@ -12,7 +12,7 @@
 </details>
 
 <details close>
-## What I major in
+<summary><h2> ❓ What I major in </h2></summary>
 ### I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
 **💻✨ I am an open‑source contributor 🌍🛠️**  
 **As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.**
@@ -28,14 +28,13 @@ https://github.com/cg98020455/MetaMarketProfile
 </details>
 
 <details close>
-## From the experience stage to the business, AI is spreading.
-
+ <summary><h2> 🌟 From the experience stage to the business, AI is spreading. </h2></summary>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oUAAR9fnsmpstFhqmZZ55g.gif" />
 </details>
 
 <details close>
-## ⚙️ Languages and tools 
+ <summary><h2>⚙️ Languages and tools  </h2></summary>
 <p>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/> 
 <img src="https://www.svgrepo.com/show/303205/html-5-logo.svg" alt="HTML Logo" width="50" height="50"/> 
@@ -260,7 +259,7 @@ height="50"
 </details>
 
 <details close>
-## 📊 My Github Stats 
+ <summary><h2>📊 My Github Stats  </h2></summary>
 
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/cg98020455/github-profile-summary-cards) [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/cg98020455/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/cg98020455/cg98020455/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/cg98020455/github-profile-summary-cards)
@@ -272,7 +271,7 @@ height="50"
 <br/>
 </details>
 <details close>
-## 💡 Why Work With Me?
+ <summary><h2>💡 Why Work With Me? </h2></summary>
 
 ✔️ Proven expertise in real-world GPT, LLM, and automation solutions
 <br/>
@@ -286,7 +285,7 @@ height="50"
 </details>
 
 <details close>
-## 🤝 Connect With Me
+ <summary><h2>🤝 Connect With Me </h2></summary>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charles-gagnon-0abbb334a/)
 
