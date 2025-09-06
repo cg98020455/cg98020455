@@ -28,7 +28,7 @@ https://github.com/cg98020455/MetaMarketProfile
 </details>
 
 <details close>
- <summary><h2> 🌟 From the experience stage to the business, AI is spreading. </h2></summary>
+ <summary><h2> 🚀 From the experience stage to the business, AI is spreading. </h2></summary>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oUAAR9fnsmpstFhqmZZ55g.gif" />
 </details>
