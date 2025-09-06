@@ -264,17 +264,29 @@ height="50"
 <details close>
  <summary><h2> 🏢Portfolio- Real Estate Agent </h2></summary>
  [Advanced RAG Engineering for real estate due diligence AI Agent](https://github.com/cg98020455/Advanced-RAG-Engineering-for-real-estate-due-diligence-AI-Agent)
+ <br/>
  [AI agent development for an real estate agency for appointment setting](https://github.com/cg98020455/AI-agent-development-for-an-real-estate-agency-for-appointment-setting)
+ <br/>
  [AI Agent SaaS for Real Estate Valuation & Property Intelligence](https://github.com/cg98020455/AI-Agent-SaaS-for-Real-Estate-Valuation-Property-Intelligence)
+ <br/>
  [AI-Powered SMS Real Estate Agent using VoiceFlow](https://github.com/cg98020455/AI-Powered-SMS-Real-Estate-Agent-using-VoiceFlow)
+ <br/>
  [NLP Chatbot for Real Estate](https://github.com/cg98020455/NLP-Chatbot-for-Real-Estate)
+ <br/>
  [Real Estate Agency Chatbot](https://github.com/cg98020455/Real-Estate-Agency-Chatbot)
+ <br/>
  [Real estate chatbot integrated with Whatsapp business API](https://github.com/cg98020455/Real-estate-chatbot-integrated-with-Whatsapp-business-API)
+ <br/>
  [Real estate county website](https://github.com/cg98020455/Real-estate-county-website)
+ <br/>
  [Real Estate Data Mining](https://github.com/cg98020455/Real-Estate-Data-Mining)
+ <br/>
  [Real estate data research](https://github.com/cg98020455/Real-estate-data-research)
+ <br/>
  [Real estate due diligence](https://github.com/cg98020455/Real-estate-due-diligence)
+ <br/>
  [Real Estate Financial Model - Construction, Rental, Refinance, & Sales](https://github.com/cg98020455/Real-Estate-Financial-Model---Construction-Rental-Refinance-Sales)
+ <br/>
  
 </details>
 
