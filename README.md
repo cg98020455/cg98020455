@@ -294,18 +294,31 @@ height="50"
 </p>
 
 -Libraries/APIs
+<br/>
 PyTorch, Scikit-learn, TensorFlow, Spark ML, Keras, JAX, LSTM
+<br/><br/>
 -Tools
+<br/>
 PyCharm, Spart SQL, Docker Compose
+<br/><br/>
 -Languages
+<br/>
 Python, R, Julia, R, SQL, Scala, Java, JavaScript, TypeScript, Bash Script, QML
+<br/><br/>
 -Frameworks
+<br/>
 LightGBM, Apache Spark, MXNet, Flask, Multi-armed Bandits
+<br/><br/>
 -Platforms
+<br/>
 MacOS, Jupyter Notebook, Google Cloud Platform(GCP), Amazon Web Services(AWS), Linux Docker
+<br/><br/>
 -Storage
+<br/>
 Relational Databases, NoSQL
+<br/><br/>
 -Other
+<br/>
 Artificial Intelligence(AI), Machine Learning, Deep Learning, Data Science, Natural Language Processing(NLP), Generative Pre-trained Transformers(GPT), Data, Statistics, TPU, Custom BERT, Knowledge Graphs, Multimodal Models, Explainable Artificial Intelligence (XAI), Causal Inference, Time Series Analysis, Sequence Models, Probability Theory, Data Visualization, Algorithms, LLM, Machine Learning Operations(MLOps), AI Consulting, Finance, Probabilistic Graphical Models, Project Management,  Unsupervised Learning, Product Roadmaps, Product Planning,  Market Research & Analysis, Mistral AI, Gemini API, Topic Modeling, Semantic similarity, Llama, FastAPI, Competitor Analysis & Profiling
 
 </details>
