@@ -372,21 +372,25 @@ I bring a deep and comprehensive expertise in Artificial Intelligence (AI), Mach
 <br/>
 
 ✔ Proven Track Record of Impactful AI Solutions
+<br/>
 I have successfully led and executed AI projects across diverse domains, including energy forecasting, fraud detection, social media hate speech detection, and climate change systems, demonstrating my ability to deliver measurable business impact.
 My experience in building full-stack AI-powered applications including web APIs, automated schedulers, and data monitoring pipelines shows my capacity to drive projects from concept to production, ensuring seamless integration and robust performance.
 <br/>
 
 ✔ Expertise in Cutting-Edge Technologies & Tools
+<br/>
 Proficient in PyTorch, TensorFlow, LangChain, OpenAI APIs, and cloud infrastructure on AWS and Google Cloud, I leverage state-of-the-art frameworks and MLOps practices to accelerate development and deployment cycles.
 Skilled in vector databases, RAG pipelines, and explainable AI, I am prepared to build transparent, explainable, and efficient AI systems critical for enterprise adoption.
 <br/>
 
 ✔ Leadership and Collaboration Excellence
+<br/>
 As a technical leader, I have guided teams, coordinated cross-functional efforts, and delivered strategic AI roadmaps that balance innovation, cost, and quality.
 Strong experience working with startup and enterprise environments equips me to adapt quickly, foster innovation, and ensure alignment with business goals and compliance.
 <br/>
 
 ✔ Versatile and Business-Oriented AI Innovator
+<br/>
 Beyond technology, my background includes market research, product planning, and hands-on client work in automation and SaaS, bridging technical expertise with business outcomes.
 My contributions to generative AI products in HR tech, marketing content automation, and AI assistants highlight my ability to apply AI meaningfully in diverse verticals.
 <br/>
