@@ -5,7 +5,7 @@
 
 <details close>
 <summary><h2>🌟 About me</h2></summary>
-- 7 years of experience and expertise in software architecture and development, mathematical modeling, and algorithm development, in fields such as mathematical optimization, AI, algorithmic theory, and operations research. 
+- 8 years of experience and expertise in software architecture and development, mathematical modeling, and algorithm development, in fields such as mathematical optimization, AI, algorithmic theory, and operations research. 
 <br/>
 - Generative AI, ML, and NLP expert with 5+ years of experience. 
  <br/>
