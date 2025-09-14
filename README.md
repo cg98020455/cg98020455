@@ -5,29 +5,38 @@
 
 <details close>
 <summary><h2>🌟 About me</h2></summary>
- 
-  - 💻 I specialise in JS, PHP and Java, but I also enjoy exploring other technologies and languages.
-  - 🚀 I'm always eager to learn new things and take on new challenges.
-  - 🎓 I believe in the power of knowledge-sharing and open source.
+- 7 years of experience and expertise in software architecture and development, mathematical modeling, and algorithm development, in fields such as mathematical optimization, AI, algorithmic theory, and operations research. 
+- Generative AI, ML, and NLP expert with 5+ years of experience. 
+- I has successfully lead teams and managed projects from initial conception through full deployment in both startup and enterprise environments.
+
 </details>
 
 <details close>
 <summary><h2> ❓ What I major in </h2></summary>
-I specialized in real estate, healthcare, fintech and edtech agent(chatbot, voice agent) development.
- <br/>
-💻✨ I am an open‑source contributor 🌍🛠️
- <br/>
-As an AI Engineer, I am passionate about developing innovative solutions and contributing to the advancement of artificial intelligence technologies.
-<br/>
 
+Python- 10 years
+Pandas- 10 years
+Scikit-learn- 5 years
+PyTorch- 4 years
+Flask- 6 years
+Artificial Intelligence - 8 years, 
+Neural Network - 6 years, 
+Computer Vision - 5 years, 
+Data Analysis - 5 years, 
+Prompt Engineering - 2 years, 
+LLM - 5 years, 
+OpenAI - 2 years, 
+Chatbot Development- 3 years, 
+Streamlit Development - 4 years,
+Google Cloud Platform- 6 years
+LangChain - 3 years
+Amazon Web Service(AWS)- 10 years
+Explainable Artificial Intelligence(XAI)- 7 years
+Psychology & Mental Health- 3 years
+Deep Learning- 6 years
+Multi-task Learning- 2 years
+Meta Learning - 2 years
 
-
----
-
-Dear everyone! This repository can be helpful for your forex trading. Giving star to this repository will make to improve quality of this project.
-https://github.com/cg98020455/MetaMarketProfile
-
----
 </details>
 
 <details close>
@@ -259,6 +268,22 @@ height="50"
   width="50"
   height="50" /><img src="https://user-images.githubusercontent.com/25181517/183345121-36788a6e-5462-424a-be67-af1ebeda79a2.png" alt="Terraform Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="Azure Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP Logo" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/25181517/183345125-9a7cd2e6-6ad6-436f-8490-44c903bef84c.png" alt="Nginx Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/bash-1.svg" alt="Bash Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 </p>
+
+-Libraries/APIs
+PyTorch, Scikit-learn, TensorFlow, Spark ML, Keras, JAX, LSTM
+-Tools
+PyCharm, Spart SQL, Docker Compose
+-Languages
+Python, R, Julia, R, SQL, Scala, Java, JavaScript, TypeScript, Bash Script, QML
+-Frameworks
+LightGBM, Apache Spark, MXNet, Flask, Multi-armed Bandits
+-Platforms
+MacOS, Jupyter Notebook, Google Cloud Platform(GCP), Amazon Web Services(AWS), Linux Docker
+-Storage
+Relational Databases, NoSQL
+-Other
+Artificial Intelligence(AI), Machine Learning, Deep Learning, Data Science, Natural Language Processing(NLP), Generative Pre-trained Transformers(GPT), Data, Statistics, TPU, Custom BERT, Knowledge Graphs, Multimodal Models, Explainable Artificial Intelligence (XAI), Causal Inference, Time Series Analysis, Sequence Models, Probability Theory, Data Visualization, Algorithms, LLM, Machine Learning Operations(MLOps), AI Consulting, Finance, Probabilistic Graphical Models, Project Management,  Unsupervised Learning, Product Roadmaps, Product Planning,  Market Research & Analysis, Mistral AI, Gemini API, Topic Modeling, Semantic similarity, Llama, FastAPI, Competitor Analysis & Profiling
+
 </details>
 
 <details close>
