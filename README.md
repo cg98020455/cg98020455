@@ -1,5 +1,6 @@
 ![Hello there](https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600)
 # Hello there I am [Charles]()
+# Project Manager, AI engineer
 [![GitHub Profile Views](https://komarev.com/ghpvc/?username=cg98020455&label=PROFILE+VIEWS&style=for-the-badge&color=blueviolet)](https://github.com/cg98020455)
 <br/>
 
