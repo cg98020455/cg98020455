@@ -70,6 +70,8 @@ Meta Learning - 2 years
  <summary><h2> 🚀 From the experience stage to the business, AI is spreading. </h2></summary>
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*oUAAR9fnsmpstFhqmZZ55g.gif" />
+
+ Global AI spending expected to surpass $631 billion by 2028, according to IDC—and AI developers will help businesses remain competitive.
 </details>
 
 <details close>
