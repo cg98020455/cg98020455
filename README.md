@@ -11,6 +11,7 @@
 - Generative AI, ML, and NLP expert with 5+ years of experience. 
  <br/>
 - I has successfully lead teams and managed projects from initial conception through full deployment in both startup and enterprise environments.
+- I have contributed to the development of several MVPs and market products.
 
 </details>
 
